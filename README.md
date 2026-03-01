@@ -1,9 +1,6 @@
 # MongoDB Aggregation Masterclass: $lookup & $group
 
-A collection of 20 MongoDB aggregation tasks and 4 advanced management reports. This repository serves as a practical guide for mastering complex data relationships in MongoDB using Mongoose and Express.
-
-## Overview
-This project demonstrates advanced NoSQL data modeling and aggregation techniques. It implements a structured data model within MongoDB, showcasing how to join collections, perform multi-faceted analysis, and generate business-critical reports without traditional SQL joins.
+This repo demonstrates advanced NoSQL data modeling and aggregation techniques. It implements a structured data model within MongoDB, showcasing how to join collections, perform multi-faceted analysis, and generate business-critical reports without traditional SQL joins.
 
 ---
 
